@@ -105,9 +105,9 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1510d13336228debfee9c918ce505efe225d8c94d045fa115";
 
 //TODO Add here your network seed nodes
-const std::initializer_list<const char*> SEED_NODES = 0.0.0.0:18989 ; 127.0.0.1:18999;
-  //"your_seed_ip1.com:8080",
-  //"your_seed_ip2.com:8080",
+const std::initializer_list<const char*> SEED_NODES = ;
+  //"127.0.0.1:8080",
+  //"127.0.0.1:8080",
 };
 
 struct CheckpointData {
